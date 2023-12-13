@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="carrot.css"?>
+<advertisement>
+    <title>
+        WELCOME TO CARROT CAFE
+    </title>
+    
+    <item>
+        <name>Carrot Cake </name>
+        <price>$15.00</price>
+        <description><span>Delicious afternoon treat with complementary coffee</span> </description>
+    </item>
+    <item>
+        <name>Chocolate cake </name>
+        <price>$15.00</price>
+        <description><span>Delicious afternoon treat with complementary coffee</span> </description>
+    </item>
+    <item>
+        <name>Lemon cake</name>
+        <price>$15.00</price>
+        <description><span>Delicious afternoon treat with complementary coffee</span> </description>
+    </item>
+    <item>
+        <name>Orange and poppyseed cake</name>
+        <price> $15.00</price>
+       <description><span>Delicious afternoon treat with complementary coffee</span> </description>
+    </item>
+</advertisement>
+
